@@ -1,0 +1,9 @@
+
+1. Application should quit when window is closed
+
+2. Add field so that starting value can be set
+
+
+--------
+Swing Thread - http://docs.oracle.com/javase/6/docs/api/javax/swing/package-summary.html
+
